@@ -1,0 +1,2 @@
+class MyLike < ApplicationRecord
+end
